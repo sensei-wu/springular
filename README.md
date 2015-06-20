@@ -1,2 +1,2 @@
-# org.zencv.springular
-A sample project to demonstrate Spring boot using AngularJS and bootstrap front-end
+# Springular
+A sample project to demonstrate Spring boot basics using AngularJS and bootstrap front-end
